@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/logger.o -c /home/virtua1/mymuduo/logger.cpp",
+  "file": "/home/virtua1/mymuduo/logger.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Timestamp.o -c /home/virtua1/mymuduo/Timestamp.cpp",
+  "file": "/home/virtua1/mymuduo/Timestamp.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.o -c /home/virtua1/mymuduo/InetAddress.cpp",
+  "file": "/home/virtua1/mymuduo/InetAddress.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.o -c /home/virtua1/mymuduo/TcpServer.cpp",
+  "file": "/home/virtua1/mymuduo/TcpServer.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.o -c /home/virtua1/mymuduo/EventLoop.cpp",
+  "file": "/home/virtua1/mymuduo/EventLoop.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.o -c /home/virtua1/mymuduo/Channel.cpp",
+  "file": "/home/virtua1/mymuduo/Channel.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Poller.o -c /home/virtua1/mymuduo/Poller.cpp",
+  "file": "/home/virtua1/mymuduo/Poller.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/DefaultPoller.o -c /home/virtua1/mymuduo/DefaultPoller.cpp",
+  "file": "/home/virtua1/mymuduo/DefaultPoller.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EPollPoller.o -c /home/virtua1/mymuduo/EPollPoller.cpp",
+  "file": "/home/virtua1/mymuduo/EPollPoller.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/CurrentThread.o -c /home/virtua1/mymuduo/CurrentThread.cpp",
+  "file": "/home/virtua1/mymuduo/CurrentThread.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Thread.o -c /home/virtua1/mymuduo/Thread.cpp",
+  "file": "/home/virtua1/mymuduo/Thread.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThread.o -c /home/virtua1/mymuduo/EventLoopThread.cpp",
+  "file": "/home/virtua1/mymuduo/EventLoopThread.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoppThreadPool.o -c /home/virtua1/mymuduo/EventLoppThreadPool.cpp",
+  "file": "/home/virtua1/mymuduo/EventLoppThreadPool.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Socket.o -c /home/virtua1/mymuduo/Socket.cpp",
+  "file": "/home/virtua1/mymuduo/Socket.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Acceptor.o -c /home/virtua1/mymuduo/Acceptor.cpp",
+  "file": "/home/virtua1/mymuduo/Acceptor.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpConnection.o -c /home/virtua1/mymuduo/TcpConnection.cpp",
+  "file": "/home/virtua1/mymuduo/TcpConnection.cpp"
+},
+{
+  "directory": "/home/virtua1/mymuduo/build",
+  "command": "/opt/rh/devtoolset-11/root/usr/bin/g++   -Dmymuduo_EXPORTS  -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Buffer.o -c /home/virtua1/mymuduo/Buffer.cpp",
+  "file": "/home/virtua1/mymuduo/Buffer.cpp"
+}
+]
